@@ -16,4 +16,22 @@ Este dashboard foi feito sob a ação “Criando um Dashboard de Vendas do Xbox 
 
 ## Instruções de Instalação
 Não necessita instruções para instalar um dashboard financeiro do Excel, pois o uso da tabela é bem intuitivo. Basta ter internet e o Excel instalado no teu dispositivo.\
-Baixa o dashboard [AQUI]().
+Baixa o dashboard [AQUI](https://github.com/MARSELO10/atividadeDioSantanderExcel03/blob/main/projetoDashBoardExcel.xlsx).
+
+# Instruções de Uso
+
+### 1 – Baixa e abra o arquivo. 
+### 2 – Escolha a segmentação de plano e tempo para ver o expecífico.
+![dashBoard02](https://github.com/user-attachments/assets/d3dc9efd-7bc6-4b17-9d71-cf3131d82ad1)
+
+### 3 – Veja e interprete os dados dos gráficos.
+![dashBoard03](https://github.com/user-attachments/assets/0e2a7555-ad08-4e1c-b29b-51bb3e931164)
+
+# Patrocinadores ou Afins
+Estes são os *links* das empresas que estão de alguma forma ligadas a este projeto.
+- [DIO](https://www.dio.me/): plataforma de cursos e bootcamps online.
+- [Santander Open Academy](https://www.santanderopenacademy.com/pt_br/index.html): plataforma *e-learning* do banco [Santander](https://www.santander.com.br/), patrocinador do bootcamp *Santander - Excel com Inteligência Artificial*.
+- [Sony](https://www.sony.com.br/): empresa utilizada no dashboard.
+- [Playstation](https://www.playstation.com/pt-br/): produto utilizado no dashboard.
+- [Excel](https://www.microsoft.com/pt-br/microsoft-365/excel): ferramenta utilizada para construir o dashboard.
+
