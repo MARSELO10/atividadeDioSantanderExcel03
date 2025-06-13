@@ -1,7 +1,7 @@
 ![logoPlaystation](https://github.com/user-attachments/assets/01d2b8dc-c0b4-451a-a913-5dcf5236362f)
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
-[![GitHub license]([https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE](https://github.com/MARSELO10/atividadeDioSantanderExcel03/blob/main/LICENSE))
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white)
 
@@ -35,3 +35,17 @@ Estes são os *links* das empresas que estão de alguma forma ligadas a este pro
 - [Playstation](https://www.playstation.com/pt-br/): produto utilizado no dashboard.
 - [Excel](https://www.microsoft.com/pt-br/microsoft-365/excel): ferramenta utilizada para construir o dashboard.
 
+### Dashboard da tabela, já com os dados tratados, segmentados e legíveis
+![dashBoard01](https://github.com/user-attachments/assets/32a8cff7-3a76-4f17-b235-9810e1f54824)
+
+
+# Contribuição
+
+Contribuições são bem-vindas!\
+Se você encontrar algum problema ou tiver sugestões de melhorias, por favor abra uma **issue** ou envie um **pull request** para o repositório.\
+Ao contribuir para este projeto, siga o layout existente na tabela, as convenções de commits e envie suas alterações em um **branch** ou **file** separado.\
+Saiba mais sobre o código de conduta acessando o link:[Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
+
+# Licença
+
+Este repositório possui licença [MIT](https://github.com/MARSELO10/atividadeDioSantanderExcel03/blob/main/LICENSE)
