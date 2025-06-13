@@ -13,3 +13,7 @@ Este DashBoard é uma tarefa dada aos estudantes do Santander - Excel com Inteli
 **Playstation** O PlayStation é uma das marcas mais icônicas e influentes do universo dos videogames. Criado pela Sony Computer Entertainment,  marcando o início de uma nova era na indústria dos jogos eletrônicos. Desde então, a marca evoluiu significativamente, com o lançamento de diversas gerações de consoles, Reconhecido por sua potência gráfica, inovação tecnológica e uma biblioteca extensa de jogos aclamados, o PlayStation tornou-se sinônimo de entretenimento de alta qualidade. Franquias exclusivas como God of War, Uncharted, The Last of Us e Gran Turismo ajudaram a consolidar seu lugar como líder no mercado global de games, atraindo jogadores de todas as idades ao redor do mundo.\
 **Playstation-Dashboard** é um painel de controle, uma interface gráfica simples construída no Excel que mostra uma série de dados, tais quais, números de inscritos e valores de faturamento ao longo de 2024, de forma objetiva.\
 Este dashboard foi feito sob a ação “Criando um Dashboard de Vendas do Xbox com Excel”, que é uma tarefa  dada aos estudantes do Santander - Excel com Inteligência Artificial, um bootcamp da plataforma DIO.
+
+## Instruções de Instalação
+Não necessita instruções para instalar um dashboard financeiro do Excel, pois o uso da tabela é bem intuitivo. Basta ter internet e o Excel instalado no teu dispositivo.\
+Baixa o dashboard [AQUI]().
